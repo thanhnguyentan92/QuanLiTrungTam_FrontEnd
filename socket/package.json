@@ -1,0 +1,25 @@
+{
+  "name": "thanh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "dependencies": {
+      "body-parser": "*",
+      "express": "*",
+      "file-system": "^2.2.2",
+      "debug": "~2.6.6",
+      "engine.io": "~3.1.0",
+      "socket.io-adapter": "~1.1.0",
+      "socket.io-client": "2.0.4",
+      "socket.io-parser": "~3.1.1",
+      "socket.io":"*",
+      "ejs":"*",
+      "mysql":"*"
+    },
+  "author": "",
+  "license": "ISC"
+
+}
